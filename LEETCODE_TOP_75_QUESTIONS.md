@@ -1,6 +1,5 @@
 # Top 75 LeetCode Questions to Crack The Coding Interviews
 
-
 > Click :star: if you like the project. Pull Request are highly appreciated. 
 
 ---
