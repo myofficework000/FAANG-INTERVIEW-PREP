@@ -1,4 +1,4 @@
-# Top 75 LeetCode Questions to Crack The Coding Interviews
+# Top 75 LeetCode Questions to Crack The Coding Interview
 
 > Click :star: if you like the project. Pull Request are highly appreciated. 
 
