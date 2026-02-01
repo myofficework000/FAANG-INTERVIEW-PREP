@@ -6,7 +6,7 @@
 
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) [Artice](https://medium.com/@myofficework000/dsa-day-1-150-two-sum-leetcode-1-e89f9a5bd2d4)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
